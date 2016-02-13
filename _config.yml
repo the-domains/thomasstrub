@@ -1,0 +1,14 @@
+layout_spectrum: 0.7265176
+typography_spectrum: 0.1803224
+color:
+  saturation: 0.2536183
+  lightness: 0.7730673
+  brandStrength: 0.07289314
+  rhythmicContrast: 0.1964205
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: thomasstrub
